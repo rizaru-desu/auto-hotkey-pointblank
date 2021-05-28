@@ -1,0 +1,3 @@
+1. Buka Job di Pointblank Tanpa Sandboixe: Double Klik launcher PB di Desktop
+2. Buka Tumbal di Pointblank Sandboixe: Klik kanan launcher PB di Desktop > Pilih Run Sandboxied > OK
+3. Setting Job & TB : Ke Option > Video > Resolusion 1024 x 768 > Resolusi Video - Resolusi Rendah > Default Setting - V. Low (Jika ada tulisan Restar warna merah PB harus di restart) || Masuk Ke Control > Klik Setinggan Default > terus ubah Mouse Sensitif jadi 0.1
